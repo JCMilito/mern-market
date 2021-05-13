@@ -1,3 +1,8 @@
+This project was created for educational purposes, with the objective of being used in the classroom with my students of the computer science course, for the discipline of application of object-oriented programming language
+
+Specifically, it is a CRUD, which is intended for learning the React library, with the TypeScript language
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
