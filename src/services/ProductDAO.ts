@@ -17,8 +17,6 @@ class ProductDAO {
   }
 
   async createProduct(product: Product): Promise<Product> {
-    console.log(product);
-    
     try {
       let response = await api.post("save", { product });
       return response.data;
@@ -45,8 +43,6 @@ class ProductDAO {
     }  
   }
 }
-
-
 
 export default new ProductDAO();
 
